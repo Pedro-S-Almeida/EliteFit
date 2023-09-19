@@ -1,0 +1,127 @@
+
+
+
+
+.footer{
+    background-color: rgb(20, 20, 20);
+    text-align: center;
+    font-weight: bold;
+    padding: 2%;
+}
+
+.logo{
+    width: 6%;
+    height: 6%;
+    float: left;
+}
+
+.menubar{
+    background-color: rgb(20, 20, 20);
+    color: rgb(16, 138, 97);
+    padding: 30.5px;
+}
+
+.menubar li{
+    display: inline;
+    padding: 15px;
+    margin-right: 2%;
+   
+}
+
+.menubar li a {
+    text-decoration: none;
+    color: rgb(16, 138, 97);
+    font-size: 18px;
+}
+
+.menubar li a:hover, a:active{
+    text-decoration: none;
+    color: rgb(16, 138, 97);
+    background-color: black
+}
+
+.content {
+    position: relative;
+  }
+  
+  #image {
+    position: absolute;
+  }
+  
+  #texto {
+    position: absolute;
+    font-size: 24px;
+    left: 100px;
+    top: 135px;
+    color: white;
+  }
+  
+.matricula{
+    text-align: center;
+    
+}  
+
+.text-center{
+    text-align: center;
+}
+
+.cartao{
+    margin-left: 35%;
+}
+
+.hour{
+    margin-left: 39%;
+}
+
+.conecta{
+    text-decoration: none;
+}
+
+.zap-local{
+    float: right;
+    margin: 10% 15% 0 0;
+    text-align: center;
+}
+
+.mapa-local{
+    margin-left: -15%;
+}
+
+.content-text{
+    text-align: center;
+}
+
+.container-index{
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+
+.container-usuario{
+    width: 30%;
+    margin-top: 10%;
+    margin-left: 32%;
+}
+
+.container-admin{
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.container-login{
+    width: 15%;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+}
+
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
